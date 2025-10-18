@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://sub.333200.xyz/",
           "description": "订阅聚合管理系统",
           "icon": "https://github.com/imzyb/MiSub/blob/main/public/icons/icon-128x128.png?raw=true"
+        },
+        {
+          "id": "site-1760805448143",
+          "name": "ImgBed",
+          "url": "https://cloud.333200.xyz/",
+          "description": "",
+          "icon": "https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/img/logo.e8dbfa27.png?raw=true"
         }
       ]
     },
