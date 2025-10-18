@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1760804936901",
+          "name": "MISUB",
+          "url": "https://sub.333200.xyz/",
+          "description": "订阅聚合管理系统",
+          "icon": "https://github.com/imzyb/MiSub/blob/main/public/icons/icon-128x128.png?raw=true"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "先森导航🐱",
-  "_fileSha": "8d7abcaecd8cb14b56158b8dad478a98d00c51d5"
+  "title": "先森导航🐱"
 }
