@@ -59,7 +59,7 @@ export const mockData = {
           "id": "site-1760806479621",
           "name": "CF-TTS",
           "url": "https://ttsapi.pages.dev/",
-          "description": "兼容OpenAI API格式接口的文本转语音（TTS）代理服务。",
+          "description": "兼容OpenAI API格式接口的文本转语音。",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9B4F3mHF_KXX6chACw5LUwo0UJ5Pe868X-g&s"
         },
         {
