@@ -275,6 +275,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1760811069989",
+          "name": "恩山论坛",
+          "url": "https://www.right.com.cn/",
+          "description": "无线设备软硬件技术交流。",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5d/35/b4/5d35b40c-76f5-482a-15c0-9cd9526d4563/source/512x512bb.jpg"
         }
       ]
     },
