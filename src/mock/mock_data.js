@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://qr.333200.xyz/",
           "description": "微信群聊永久二维码URL缩短链接工具。",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-lm44rUGXCT0llp5AO5ga8RtutjXUMm9x-g&s"
+        },
+        {
+          "id": "site-1760807213466",
+          "name": "GHZH",
+          "url": "https://ghzh.pages.dev/",
+          "description": "Clash (mihomo)配置转换工具",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORFn9EqMxJCkoWr9oG14ESeEOYMCLsOCUXCMaamuh10YdR1w4"
         }
       ]
     },
