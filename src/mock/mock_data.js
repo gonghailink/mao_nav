@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://xugou.333200.xyz/",
           "description": "基于CloudFlare的轻量化监控平台",
           "icon": "https://github.com/zaunist/xugou/raw/main/frontend/public/logo.svg"
+        },
+        {
+          "id": "site-1760806904687",
+          "name": "QRcode-Hub",
+          "url": "https://qr.333200.xyz/",
+          "description": "微信群聊永久二维码URL缩短链接工具。",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-lm44rUGXCT0llp5AO5ga8RtutjXUMm9x-g&s"
         }
       ]
     },
