@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://cloud.333200.xyz/",
           "description": "私人云图床和网盘的结合体。",
           "icon": "https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/img/logo.e8dbfa27.png?raw=true"
+        },
+        {
+          "id": "site-1760806479621",
+          "name": "CF-TTS",
+          "url": "https://ttsapi.pages.dev/",
+          "description": "兼容OpenAI API格式接口的文本转语音（TTS）代理服务。",
+          "icon": "https://media.istockphoto.com/id/1193300702/vector/sound-icon-flat-volume-sign-symbol-music-player-sticker.jpg?s=612x612&w=0&k=20&c=dkM4qLGJZCiKL8TjdVB0-ZbKIoKkMRBHVN2002LbpWQ="
         }
       ]
     },
