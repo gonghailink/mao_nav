@@ -43,7 +43,7 @@ export const mockData = {
         },
         {
           "id": "site-1760805448143",
-          "name": "CloudFlare-ImgBed",
+          "name": "ImgBed",
           "url": "https://cloud.333200.xyz/",
           "description": "私人云图床和网盘的结合体。",
           "icon": "https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/img/logo.e8dbfa27.png?raw=true"
