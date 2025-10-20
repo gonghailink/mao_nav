@@ -111,6 +111,13 @@ export const mockData = {
           "url": "https://www.itdog.cn/tcping",
           "description": "ITDOG在线tcping",
           "icon": "https://www.urlsn.com/wp-content/uploads/1743850537334.svg"
+        },
+        {
+          "id": "site-1760974116932",
+          "name": "Speedtest",
+          "url": "https://www.speedtest.net/",
+          "description": "Speedtest网络测速",
+          "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGae04CGOL-lHxS6VmPpe99B2UDZZfU5lvqkmb7AwPGQtyAfZq"
         }
       ]
     },
