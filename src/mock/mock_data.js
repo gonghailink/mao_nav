@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://www.speedtest.net/",
           "description": "Speedtest网络测速",
           "icon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGae04CGOL-lHxS6VmPpe99B2UDZZfU5lvqkmb7AwPGQtyAfZq"
+        },
+        {
+          "id": "site-1760978672171",
+          "name": "IP地址查询",
+          "url": "https://ip.skk.moe/",
+          "description": "IP和DNS出口查询。",
+          "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX1c7teEJo1EI-MJSgmN0LrB8r-OpTvc_WLeYqEn-82PZ1Mbx-"
         }
       ]
     },
