@@ -159,7 +159,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "全栈开发",
+      "name": "边缘全栈",
       "icon": "☁️",
       "order": 3,
       "sites": [
