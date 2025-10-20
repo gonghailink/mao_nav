@@ -95,7 +95,8 @@ export const mockData = {
           "id": "site-1760953123221",
           "name": "NAT Checker",
           "url": "https://natchecker.com/",
-          "description": "NAT类型检测工具"
+          "description": "NAT类型检测工具",
+          "icon": "https://img.freepik.com/premium-vector/network-compatibility-icon_1186366-123453.jpg"
         }
       ]
     },
