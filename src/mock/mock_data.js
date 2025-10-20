@@ -90,7 +90,14 @@ export const mockData = {
       "icon": "🌐",
       "name": "网络工具",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1760953123221",
+          "name": "NAT Checker",
+          "url": "https://natchecker.com/",
+          "description": "NAT类型检测工具"
+        }
+      ]
     },
     {
       "id": "ai-tools",
