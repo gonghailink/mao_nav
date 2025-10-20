@@ -311,6 +311,13 @@ export const mockData = {
           "url": "https://www.right.com.cn/",
           "description": "无线设备软硬件技术交流。",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/5d/35/b4/5d35b40c-76f5-482a-15c0-9cd9526d4563/source/512x512bb.jpg"
+        },
+        {
+          "id": "site-1760973582091",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/",
+          "description": "多媒体分享技术讨论平台。",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7SXwFtMIJwL1Crp-E6UetLVeEzUMRIPtsQ&s"
         }
       ]
     },
