@@ -97,6 +97,13 @@ export const mockData = {
           "url": "https://natchecker.com/",
           "description": "NAT类型检测工具",
           "icon": "https://img.freepik.com/premium-vector/network-compatibility-icon_1186366-123453.jpg"
+        },
+        {
+          "id": "site-1760953726110",
+          "name": "BrowserScan",
+          "url": "https://www.browserscan.net/",
+          "description": "DNS泄漏检测",
+          "icon": ""
         }
       ]
     },
