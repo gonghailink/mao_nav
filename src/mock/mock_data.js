@@ -175,6 +175,13 @@ export const mockData = {
           "url": "https://huggingface.co/",
           "description": "构建未来的人工智能社区。",
           "icon": "https://miro.medium.com/v2/resize:fit:1358/format:webp/1*z6ZJQXsdARI0ojY-AlGhZA.png"
+        },
+        {
+          "id": "site-1760975631820",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "谷歌的Gemini对话页面。",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/17/40/7417402f-77a2-3fa7-3ed7-8392bb762dc4/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/256x256bb.jpg"
         }
       ]
     },
