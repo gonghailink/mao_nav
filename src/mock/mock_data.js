@@ -168,6 +168,13 @@ export const mockData = {
           "url": "https://grok.com/",
           "description": "马斯克的Grok AI平台。",
           "icon": "https://i.pinimg.com/236x/12/78/29/127829fad1bba0d7f269c966e8874c81.jpg"
+        },
+        {
+          "id": "site-1760974910572",
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/",
+          "description": "构建未来的人工智能社区。",
+          "icon": "https://miro.medium.com/v2/resize:fit:1358/format:webp/1*z6ZJQXsdARI0ojY-AlGhZA.png"
         }
       ]
     },
