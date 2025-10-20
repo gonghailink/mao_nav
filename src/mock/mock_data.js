@@ -154,6 +154,13 @@ export const mockData = {
           "url": "https://gemini.google.com/",
           "description": "谷歌的Gemini对话页面。",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/17/40/7417402f-77a2-3fa7-3ed7-8392bb762dc4/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-0-85-220-0.png/256x256bb.jpg"
+        },
+        {
+          "id": "site-1760978877927",
+          "name": "Microsoft Copilot",
+          "url": "https://www.copilot.com/",
+          "description": "微软Copilot对话页面。",
+          "icon": "https://teaching.utoronto.ca/wp-content/uploads/Microsoft_Copilot_Icon.svg.png"
         }
       ]
     },
