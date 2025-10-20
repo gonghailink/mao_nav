@@ -308,46 +308,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 6,
-      "sites": [
-        {
-          "id": "figma",
-          "name": "Figma",
-          "url": "https://figma.com",
-          "description": "UI设计工具",
-          "icon": "/sitelogo/figma.com.ico"
-        },
-        {
-          "id": "sketch",
-          "name": "Sketch",
-          "url": "https://www.sketch.com",
-          "description": "界面设计工具",
-          "icon": "/sitelogo/www.sketch.com.ico"
-        },
-        {
-          "id": "canva",
-          "name": "Canva",
-          "url": "https://www.canva.com",
-          "description": "在线设计平台",
-          "icon": "/sitelogo/www.canva.com.ico"
-        },
-        {
-          "id": "adobe-xd",
-          "name": "Adobe XD",
-          "url": "https://www.adobe.com/products/xd.html",
-          "description": "用户体验设计工具",
-          "icon": "/sitelogo/www.adobe.com.ico"
-        }
-      ]
-    },
-    {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 6,
       "sites": [
         {
           "id": "binance",
@@ -411,7 +375,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 7,
       "sites": [
         {
           "id": "mdn",
@@ -447,7 +411,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 8,
       "sites": [
         {
           "id": "json-formatter",
@@ -483,7 +447,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 9,
       "sites": [
         {
           "id": "bilibili",
@@ -512,7 +476,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 10,
       "sites": [
         {
           "id": "notion",
@@ -548,6 +512,42 @@ export const mockData = {
           "url": "https://www.wps.com/",
           "description": "WPS国际版",
           "icon": "https://lh4.googleusercontent.com/proxy/5Gy0BHA1HHIjQKYdN5am6NSvfx8qmw_2fE5a0VaRdbXLMcuQqC5okeFmWByUyLHCmzr-VmfwHQPIZ1PHWOcYvgKrncaw5PZ7bPQ"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "name": "各类导航",
+      "icon": "📁",
+      "order": 11,
+      "sites": [
+        {
+          "id": "figma",
+          "name": "Figma",
+          "url": "https://figma.com",
+          "description": "UI设计工具",
+          "icon": "/sitelogo/figma.com.ico"
+        },
+        {
+          "id": "sketch",
+          "name": "Sketch",
+          "url": "https://www.sketch.com",
+          "description": "界面设计工具",
+          "icon": "/sitelogo/www.sketch.com.ico"
+        },
+        {
+          "id": "canva",
+          "name": "Canva",
+          "url": "https://www.canva.com",
+          "description": "在线设计平台",
+          "icon": "/sitelogo/www.canva.com.ico"
+        },
+        {
+          "id": "adobe-xd",
+          "name": "Adobe XD",
+          "url": "https://www.adobe.com/products/xd.html",
+          "description": "用户体验设计工具",
+          "icon": "/sitelogo/www.adobe.com.ico"
         }
       ]
     }
