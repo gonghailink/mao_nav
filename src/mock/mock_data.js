@@ -161,6 +161,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1760974555240",
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "description": "",
+          "icon": "https://i.pinimg.com/236x/12/78/29/127829fad1bba0d7f269c966e8874c81.jpg"
         }
       ]
     },
