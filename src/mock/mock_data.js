@@ -95,22 +95,14 @@ export const mockData = {
           "id": "site-1760953123221",
           "name": "NAT Checker",
           "url": "https://natchecker.com/",
-          "description": "NAT类型检测工具",
-          "icon": "https://img.freepik.com/premium-vector/network-compatibility-icon_1186366-123453.jpg"
+          "description": "NAT类型检测工具"
         },
         {
-          "id": "site-1760953726110",
-          "name": "BrowserScan",
+          "id": "site-1760954670595",
+          "name": " BrowserScan",
           "url": "https://www.browserscan.net/",
           "description": "DNS泄漏检测",
           "icon": "https://moqingtk.com/wp-content/uploads/2024/08/1724036974-BrowserScanlogo500px.webp"
-        },
-        {
-          "id": "site-1760954223888",
-          "name": "ITDOG",
-          "url": "https://www.itdog.cn/tcping",
-          "description": "ITDOG在线tcping",
-          "icon": "https://www.urlsn.com/wp-content/uploads/1743850537334.svg"
         }
       ]
     },
