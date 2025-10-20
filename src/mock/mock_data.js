@@ -159,7 +159,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "云服务",
+      "name": "全栈开发",
       "icon": "☁️",
       "order": 3,
       "sites": [
@@ -193,10 +193,10 @@ export const mockData = {
         },
         {
           "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "name": "Tencent EdgeOne",
+          "url": "https://edgeone.ai/",
+          "description": "腾讯边缘全栈开发平台",
+          "icon": "https://avatars.githubusercontent.com/u/176978739?s=200&v=4"
         },
         {
           "id": "huawei-cloud",
