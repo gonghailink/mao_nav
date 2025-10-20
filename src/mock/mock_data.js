@@ -527,6 +527,13 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        },
+        {
+          "id": "site-1760977590024",
+          "name": "WPS",
+          "url": "https://www.wps.com/",
+          "description": "WPS国际版",
+          "icon": "https://lh4.googleusercontent.com/proxy/5Gy0BHA1HHIjQKYdN5am6NSvfx8qmw_2fE5a0VaRdbXLMcuQqC5okeFmWByUyLHCmzr-VmfwHQPIZ1PHWOcYvgKrncaw5PZ7bPQ"
         }
       ]
     }
