@@ -103,7 +103,7 @@ export const mockData = {
           "name": "BrowserScan",
           "url": "https://www.browserscan.net/",
           "description": "DNS泄漏检测",
-          "icon": ""
+          "icon": "https://moqingtk.com/wp-content/uploads/2024/08/1724036974-BrowserScanlogo500px.webp"
         }
       ]
     },
