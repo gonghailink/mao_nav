@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://ghzh.pages.dev/",
           "description": "Clash (mihomo)配置转换工具",
           "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORFn9EqMxJCkoWr9oG14ESeEOYMCLsOCUXCMaamuh10YdR1w4"
+        },
+        {
+          "id": "site-1761360239614",
+          "name": "HiveChat",
+          "url": "http://chat.333200.xyz/setup",
+          "description": "专为中小团队设计的 AI 聊天应用",
+          "icon": "https://camo.githubusercontent.com/9addb428ce8bf4fa7e0ae5892a709c30bb81f7913924623550f57e7e035258e0/68747470733a2f2f6a69616e74756b752e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f73686172652f6c6f676f2e706e67"
         }
       ]
     },
