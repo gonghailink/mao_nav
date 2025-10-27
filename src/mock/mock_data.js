@@ -386,31 +386,10 @@ export const mockData = {
       "sites": [
         {
           "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
-        },
-        {
-          "id": "w3school",
-          "name": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程",
-          "icon": "/sitelogo/www.w3schools.com.ico"
-        },
-        {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
+          "name": "古诗文网",
+          "url": "https://www.gushiwen.cn/",
+          "description": "传承古诗文相关资料",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEXw7+Lv7uHw7uLz8uX49+vm5dfKy7ygoo6+vq3Y2MmChW9PVDZdYUaGiHTj4tT8/PLR0sNZXUKbnYjd3c9kZ07p6dvDw7NxdFyPkXypqpiUloJ6fWeGiHNpbFTz8uRkaE2xsqA7MzEuAAAA90lEQVR4AayQVYLEIAxACcGhhtbb+19yx33mb4Pz4uR/BAjAD0SRHccvyoVU5DsF1Ma6qv5Bm9Z1HsgP0xC7tvnGEJHV0Wl2vPD05BsAaKpDENHlVghVeo53o3rwYzVNxrg49/NsJmue8hq7eVBC66XUnB9n9voGKdaB4IoMlrIiMroifU11xUTqrSRCEvsog3PW8LilRtlhfSuEl2X0pnPTvHW2ZfBqKW0lh11lNdkCb27Zvml2kjTbhcAbVK5lFCme4KelE6csU2u+wMHG7Siu6+yE8A67cRdah2Bc/oCy8IadpA6fTcg7HAYBzMzY4hMefww0BgAUmg3FTBIz2QAAAABJRU5ErkJggg=="
         }
       ]
     },
