@@ -380,7 +380,7 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "学习资源",
+      "name": "文学教育",
       "icon": "📚",
       "order": 7,
       "sites": [
