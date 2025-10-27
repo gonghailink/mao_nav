@@ -402,37 +402,16 @@ export const mockData = {
     },
     {
       "id": "tools",
-      "name": "在线工具",
+      "name": "AI工具",
       "icon": "⚙️",
       "order": 8,
       "sites": [
         {
           "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
+          "name": "Atlas浏览器",
+          "url": "https://chatgpt.com/zh-Hans-CN/atlas/",
+          "description": "内置ChatGPT的Atlas浏览器",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ChatGPT_Atlas_Logo.png/500px-ChatGPT_Atlas_Logo.png"
         }
       ]
     },
