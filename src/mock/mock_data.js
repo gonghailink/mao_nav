@@ -412,6 +412,13 @@ export const mockData = {
           "url": "https://chatgpt.com/zh-Hans-CN/atlas/",
           "description": "内置ChatGPT的Atlas浏览器",
           "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ChatGPT_Atlas_Logo.png/500px-ChatGPT_Atlas_Logo.png"
+        },
+        {
+          "id": "site-1761598986037",
+          "name": "Arc浏览器",
+          "url": "https://arc.net/",
+          "description": "集成多项AI功能的浏览器",
+          "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EWJb6zZgOtmCnUaOvCHsw1tHsArh4hLf0VWhdKe6FQ&s"
         }
       ]
     },
