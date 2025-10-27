@@ -395,7 +395,7 @@ export const mockData = {
           "id": "site-1761564520648",
           "name": "国家智慧教育公共服务平台",
           "url": "https://www.smartedu.cn/",
-          "description": "国家智慧教育公共服务平台",
+          "description": "国家给百姓提供技能学习的网站",
           "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEwAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsFSrVnKAAAAE3RSTlMAClaGOCkWmWnvpWP/skh3wtLjT+0r/wAAAO1JREFUeAHNkUeSBCAIABEwgGDg/49d3RzPO32jusjwCCQk/lVkgJKw5t9cE+3SyPBnlnZ2RB9Dx9TyuRHnsSZuuyzum99VGdVkWVwnVGVvcywvqrvYO0L0Enk/Gt3+wBkKY5WfRrTz61S4vqqF6X1UQihqBx52UAac41mnucVklqxhOZtoLhgmQdfynHWFxUjsazuWsWwvnZOPRNVK62iCQrPAFFlOVRVvVdW1tHrILZRIYpOeVJ0nc/TWsa+biwBs4dVn7w0HQAtXdV/q2yKlkF2rnrwTE6S3r3Td1tBWnb/+k09GveZ3cMB/8wRe+w6rcKwggAAAAABJRU5ErkJggg=="
         }
       ]
