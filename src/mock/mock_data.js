@@ -390,6 +390,13 @@ export const mockData = {
           "url": "https://www.gushiwen.cn/",
           "description": "传承古诗文相关资料",
           "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAY1BMVEXw7+Lv7uHw7uLz8uX49+vm5dfKy7ygoo6+vq3Y2MmChW9PVDZdYUaGiHTj4tT8/PLR0sNZXUKbnYjd3c9kZ07p6dvDw7NxdFyPkXypqpiUloJ6fWeGiHNpbFTz8uRkaE2xsqA7MzEuAAAA90lEQVR4AayQVYLEIAxACcGhhtbb+19yx33mb4Pz4uR/BAjAD0SRHccvyoVU5DsF1Ma6qv5Bm9Z1HsgP0xC7tvnGEJHV0Wl2vPD05BsAaKpDENHlVghVeo53o3rwYzVNxrg49/NsJmue8hq7eVBC66XUnB9n9voGKdaB4IoMlrIiMroifU11xUTqrSRCEvsog3PW8LilRtlhfSuEl2X0pnPTvHW2ZfBqKW0lh11lNdkCb27Zvml2kjTbhcAbVK5lFCme4KelE6csU2u+wMHG7Siu6+yE8A67cRdah2Bc/oCy8IadpA6fTcg7HAYBzMzY4hMefww0BgAUmg3FTBIz2QAAAABJRU5ErkJggg=="
+        },
+        {
+          "id": "site-1761564520648",
+          "name": "国家智慧教育公共服务平台",
+          "url": "https://www.smartedu.cn/",
+          "description": "国家智慧教育公共服务平台",
+          "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEwAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsEAWsFSrVnKAAAAE3RSTlMAClaGOCkWmWnvpWP/skh3wtLjT+0r/wAAAO1JREFUeAHNkUeSBCAIABEwgGDg/49d3RzPO32jusjwCCQk/lVkgJKw5t9cE+3SyPBnlnZ2RB9Dx9TyuRHnsSZuuyzum99VGdVkWVwnVGVvcywvqrvYO0L0Enk/Gt3+wBkKY5WfRrTz61S4vqqF6X1UQihqBx52UAac41mnucVklqxhOZtoLhgmQdfynHWFxUjsazuWsWwvnZOPRNVK62iCQrPAFFlOVRVvVdW1tHrILZRIYpOeVJ0nc/TWsa+biwBs4dVn7w0HQAtXdV/q2yKlkF2rnrwTE6S3r3Td1tBWnb/+k09GveZ3cMB/8wRe+w6rcKwggAAAAABJRU5ErkJggg=="
         }
       ]
     },
