@@ -182,6 +182,13 @@ export const mockData = {
           "url": "https://www.copilot.com/",
           "description": "微软Copilot对话页面。",
           "icon": "https://teaching.utoronto.ca/wp-content/uploads/Microsoft_Copilot_Icon.svg.png"
+        },
+        {
+          "id": "site-1761859623978",
+          "name": "Duck.ai",
+          "url": "https://duckduckgo.com/",
+          "description": "DuckDuckGo的匿名AI",
+          "icon": ""
         }
       ]
     },
