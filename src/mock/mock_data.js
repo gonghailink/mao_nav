@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://ip.skk.moe/",
           "description": "IP和DNS出口查询。",
           "icon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX1c7teEJo1EI-MJSgmN0LrB8r-OpTvc_WLeYqEn-82PZ1Mbx-"
+        },
+        {
+          "id": "site-1761788915851",
+          "name": "CloudFlare 优选域名",
+          "url": "https://cf.090227.xyz/",
+          "description": "CM的优选域名主页",
+          "icon": "https://avatars.githubusercontent.com/u/24787744?v=4"
         }
       ]
     },
