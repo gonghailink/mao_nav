@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://tv.333200.xyz/",
           "description": "私人MoonTV影音站。",
           "icon": "https://raw.githubusercontent.com/MoonTechLab/LunaTV/main/public/logo.png"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
+          "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
     },
@@ -448,29 +455,7 @@ export const mockData = {
       "name": "接码平台",
       "icon": "📱",
       "order": 9,
-      "sites": [
-        {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        },
-        {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "/sitelogo/www.douban.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "office",
