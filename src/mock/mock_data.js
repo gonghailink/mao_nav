@@ -445,8 +445,8 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
+      "name": "接码平台",
+      "icon": "📱",
       "order": 9,
       "sites": [
         {
